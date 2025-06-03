@@ -1,0 +1,7 @@
+path: /Users/swaminathang/PycharmProjects/IndianNumberplateDetection/dataset
+train: images
+val: images
+
+# Classes
+names:
+  0: number_plate
